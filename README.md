@@ -23,7 +23,7 @@
 ## 🚀 Getting Started  
 
 1️⃣ Clone the repository  
-git clone https://github.com/<your-username>/Astroemoji.git
+git clone https://github.com/bhavesh-kalluru/-Astroemoji-
 cd Astroemoji
 
 2️⃣ Create a virtual environment
